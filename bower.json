@@ -1,0 +1,28 @@
+{
+  "name": "angular-webworker",
+  "homepage": "https://github.com/AlexJangam/angular-webworker",
+  "authors": [
+    "J Alexander Pradeep <alex.jangam@gmail.com>"
+  ],
+  "version": "0.0.1",
+  "description": "JS based angular wrapped library for web workers",
+  "main": "angular-webworker.js",
+  "moduleType": [],
+  "keywords": [
+    "angular",
+    "web-worker",
+    "js web-worker",
+    "angular web-worker",
+    "jquery web-worker",
+    "webworker",
+    "js webworker",
+    "angular webworker",
+    "jquery webworker"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ]
+}

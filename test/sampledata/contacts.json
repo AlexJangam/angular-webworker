@@ -1,0 +1,192 @@
+[{
+  "name": "Manuela",
+  "surname": "Aigner",
+  "role": "Personnel",
+  "gender": "female",
+  "country": "Austria",
+  "mobile": "+1 123 456 789",
+  "home": "email@example.com",
+  "profile": "http://www.example.com",
+  "tag": "Clients"
+}, {
+  "name": "Eric",
+  "surname": "Owens",
+  "role": "Accounting",
+  "gender": "male",
+  "country": "China",
+  "mobile": "+1 123 456 789",
+  "home": "email@example.com",
+  "profile": "http://www.example.com",
+  "tag": "Archives"
+}, {
+  "name": "Bertha",
+  "surname": "Mart\u00ednez",
+  "role": "Personnel",
+  "gender": "female",
+  "country": "Mexico",
+  "mobile": "+1 123 456 789",
+  "home": "email@example.com",
+  "profile": "http://www.example.com",
+  "tag": "Personal"
+}, {
+  "name": "Varvara",
+  "surname": "Mo\u021boc",
+  "role": "Accounting",
+  "gender": "female",
+  "country": "Romania",
+  "mobile": "+1 123 456 789",
+  "home": "email@example.com",
+  "profile": "http://www.example.com",
+  "tag": "Family"
+}, {
+  "name": "Savina",
+  "surname": "Dogaru",
+  "role": "Personnel",
+  "gender": "female",
+  "country": "Romania",
+  "mobile": "+1 123 456 789",
+  "home": "email@example.com",
+  "profile": "http://www.example.com",
+  "tag": "Clients"
+}, {
+  "name": "Mikayla",
+  "surname": "Vosper",
+  "role": "Engineering",
+  "gender": "female",
+  "country": "New Zealand",
+  "mobile": "+1 123 456 789",
+  "home": "email@example.com",
+  "profile": "http://www.example.com",
+  "tag": "Friends"
+}, {
+  "name": "Codru\u021b",
+  "surname": "Posteuc\u0103",
+  "role": "Personnel",
+  "gender": "male",
+  "country": "Romania",
+  "mobile": "+1 123 456 789",
+  "home": "email@example.com",
+  "profile": "http://www.example.com",
+  "avatar": "images/face4.jpg",
+  "tag": "Personal"
+}, {
+  "name": "Bodrogi",
+  "surname": "Szandra",
+  "role": "Accounting",
+  "gender": "female",
+  "country": "Hungary",
+  "mobile": "+1 123 456 789",
+  "home": "email@example.com",
+  "profile": "http://www.example.com",
+  "tag": "Clients"
+}, {
+  "name": "Patricia",
+  "surname": "Ortiz",
+  "role": "Engineering",
+  "gender": "female",
+  "country": "Spain",
+  "mobile": "+1 123 456 789",
+  "home": "email@example.com",
+  "profile": "http://www.example.com",
+  "tag": "Friends"
+}, {
+  "name": "Stijn",
+  "surname": "Declercq",
+  "role": "Personnel",
+  "gender": "male",
+  "country": "Belgium",
+  "mobile": "+1 123 456 789",
+  "home": "email@example.com",
+  "profile": "http://www.example.com",
+  "tag": "Family"
+}, {
+  "name": "Kimberly",
+  "surname": "Grant",
+  "role": "Accounting",
+  "gender": "female",
+  "country": "China",
+  "mobile": "+1 123 456 789",
+  "home": "email@example.com",
+  "profile": "http://www.example.com",
+  "tag": "Archives"
+}, {
+  "name": "Tudora",
+  "surname": "Barbu",
+  "role": "Engineering",
+  "gender": "female",
+  "country": "Romania",
+  "mobile": "+1 123 456 789",
+  "home": "email@example.com",
+  "profile": "http://www.example.com",
+  "tag": "Personal"
+}, {
+  "name": "Eugenia",
+  "surname": "elmaru",
+  "role": "Personnel",
+  "gender": "female",
+  "country": "Romania",
+  "mobile": "+1 123 456 789",
+  "home": "email@example.com",
+  "profile": "http://www.example.com",
+  "tag": "Clients"
+}, {
+  "name": "Cristina",
+  "surname": "Carrillo",
+  "role": "Accounting",
+  "gender": "female",
+  "country": "Mexico",
+  "mobile": "+1 123 456 789",
+  "home": "email@example.com",
+  "profile": "http://www.example.com",
+  "tag": "Family"
+}, {
+  "name": "Janice",
+  "surname": "james",
+  "role": "Personnel",
+  "gender": "male",
+  "country": "China",
+  "mobile": "+1 123 456 789",
+  "home": "email@example.com",
+  "profile": "http://www.example.com",
+  "tag": "Clients"
+}, {
+  "name": "Jerry",
+  "surname": "Obrien",
+  "role": "Engineering",
+  "gender": "male",
+  "country": "Russia",
+  "mobile": "+1 123 456 789",
+  "home": "email@example.com",
+  "profile": "http://www.example.com",
+  "tag": "Friends"
+}, {
+  "name": "David",
+  "surname": "Chiopu",
+  "role": "Personnel",
+  "gender": "male",
+  "country": "Romania",
+  "mobile": "+1 123 456 789",
+  "home": "email@example.com",
+  "profile": "http://www.example.com",
+  "tag": "Personal"
+}, {
+  "name": "Ianis",
+  "surname": "Ionescu",
+  "role": "Accounting",
+  "gender": "male",
+  "country": "Romania",
+  "mobile": "+1 123 456 789",
+  "home": "email@example.com",
+  "profile": "http://www.example.com",
+  "tag": "Clients"
+}, {
+  "name": "Vasilic\u0103",
+  "surname": "Vanghelie",
+  "role": "Engineering",
+  "gender": "male",
+  "country": "Romania",
+  "mobile": "+1 123 456 789",
+  "home": "email@example.com",
+  "profile": "http://www.example.com",
+  "tag": "Personal"
+}]
