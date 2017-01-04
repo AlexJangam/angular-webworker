@@ -18,7 +18,7 @@ Author: Jangam Alexander Pradeep ([AlexJangam](https://github.com/AlexJangam))
     ```html
     <script src="angular-webworker.js"></script>
     ```
-3. Add **`env_logger`** to your application's module dependencies
+3. Add **`webworker`** to your application's module dependencies
 
     ```JavaScript
     angular.module('app', ['webworker']);
