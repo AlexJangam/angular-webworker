@@ -23,7 +23,7 @@ Author: Jangam Alexander Pradeep ([AlexJangam](https://github.com/AlexJangam))
     ```JavaScript
     angular.module('app', ['webworker']);
     ```
-4. Use the factory `logger`
+4. Use the factory `webworker`
 
     ```JavaScript
     angular.module('app')
